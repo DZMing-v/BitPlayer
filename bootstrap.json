@@ -1,0 +1,18 @@
+[
+    {
+        "bootstrap_node":"/dnsaddr/xxxxxxxxxx/p2p/QmcZf59bWwK5Xxxxxxxxxxxxxxxx",
+        "sponsor_url":"https://x.x.sponsor.com",
+        "sponsor_url_web3":"",
+        "algorithm": "ed25519",
+        "pub":"",
+        "node_url_sign":""
+    },
+    {
+        "bootstrap_node":"/dnsaddr/yyyyyyyyy/p2p/QmcZf59bWwK5Xyyyyyyyyyyyyyyyy",
+        "sponsor_url":"https://y.y.sponsor.com",
+        "sponsor_url_web3":"",
+        "algorithm": "ed25519",
+        "pub":"",
+        "node_url_sign":""
+    }
+]
