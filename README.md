@@ -7,6 +7,7 @@ BitPlayer 是一款面向家用个人 PC 的轻量级桌面播放器，让分散
 
 ## [下载](https://raw.githubusercontent.com/DZMing-v/BitPlayer/main/bitplayer.exe) 后建一个folder,把exe放进去运行即可
 
+下载可能报毒，别管，鬼知道windows抽什么风，可能是编译时进行了混淆导致的，我左手摸卵子右手摸良心，绝对没毒！
 如果你觉得好用，请多多分享，用户越多资源分享者就越多。特别喜欢，请star + fork & backup  （项目随时可能会跑路
 
 
